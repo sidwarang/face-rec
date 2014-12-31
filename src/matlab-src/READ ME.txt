@@ -1,0 +1,16 @@
+Steps for running the project:
+
+1. Start Matlab and run menu2.m by simply typing menu2 in the command window.
+
+2. A GUI will open from which select the "Calculate Eigenfaces" button and enter the number of images to use for training(Remember to place the training images in the Matlab work folder.)
+
+3.Each stage of the Training process will be shown just press any button or click mouse anywhere on the screen to continue.
+
+4.Once Training is complete you can select image for recognition from "Recognition Button"
+
+5. "Update Database" can be used to add new images to Database.
+
+6. "Delete database" is used to delete the entire database of Eigenfaces.
+
+note: You must have atleast Matlab 6 installed on the system.
+        The file statusbar.m was programmed and copyrighted by Yair M. Altman altmany(at)gmail.com
